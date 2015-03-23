@@ -1,0 +1,1 @@
+Design pattern samples in C++.
