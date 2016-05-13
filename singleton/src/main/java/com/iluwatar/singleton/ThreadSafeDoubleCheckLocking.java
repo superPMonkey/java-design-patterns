@@ -7,7 +7,7 @@ package com.iluwatar.singleton;
  * 
  * Broken under Java 1.4.
  * @author mortezaadi@gmail.com
- *
+ * 
  */
 public class ThreadSafeDoubleCheckLocking {
 	
